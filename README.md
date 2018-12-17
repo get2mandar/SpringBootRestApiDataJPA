@@ -45,4 +45,4 @@ java -jar target/SpringBootRestApiDataJPA-0.1.jar
 ```
 
 
-[Spring Boot Data JPA REST API]: <https://panditmandar.blog/2018/09/15/google-guice-3/>
+[Spring Boot Data JPA REST API]: <https://panditmandar.blog/2018/12/15/spring-boot-data-jpa-rest-api/>
